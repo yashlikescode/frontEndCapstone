@@ -1,0 +1,12 @@
+[33m49cf834[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m HEAD@{0}: commit: published on github pages
+[33m89f6ed9[m HEAD@{1}: commit: added href to
+[33m3fe9820[m HEAD@{2}: commit: changed pkg json
+[33m2851a43[m HEAD@{3}: commit: made projects
+[33m47f66ae[m HEAD@{4}: commit: fixed gh problem
+[33mce9f9d7[m HEAD@{5}: commit: added page
+[33m6dea01f[m HEAD@{6}: pull origin main: Merge made by the 'ort' strategy.
+[33mc55406e[m HEAD@{7}: commit: Cloned completely
+[33m567b616[m HEAD@{8}: commit: added basic layout of the website
+[33mfff38bf[m HEAD@{9}: commit: testing
+[33m6bbb96a[m HEAD@{10}: Branch: renamed refs/heads/master to refs/heads/main
+[33m6bbb96a[m HEAD@{12}: commit (initial): first-commit
